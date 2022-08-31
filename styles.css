@@ -202,7 +202,7 @@ form{
 @media screen and (max-width: 900px) {
     header{
         display: block;
-        position: inherit;
+        position: fixed;
     }
     ul{
         all:unset;
